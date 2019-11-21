@@ -25,9 +25,6 @@
 [submodule "DEEP-OC-satsr "]
     path = DEEP-OC-satsr
     url = https://github.com/deephdc/DEEP-OC-satsr
-[submodule "DEEP-OC-speech-to-text-tf"]
-	path = DEEP-OC-speech-to-text-tf
-	url = https://github.com/deephdc/DEEP-OC-speech-to-text-tf
 [submodule "DEEP-OC-posenet-tf"]
 	path = DEEP-OC-posenet-tf
 	url = https://github.com/deephdc/DEEP-OC-posenet-tf
